@@ -8,4 +8,4 @@ ___
 5. https://infosecwriteups.com/what-it-takes-to-find-bugs-in-bounties-273ad278f77e
 
 ### HTB Academy Module 
-1.https://academy.hackthebox.com/course/preview/file-inclusion--directory-traversal [about to complete it just got myself stuck in last assesment althought flag is almost found but it's being more tricky.]
+1.https://academy.hackthebox.com/achievement/293348/23 [It was so tricky man if it was not breaking htb policy i would have definately written a writeup on this one.]

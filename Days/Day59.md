@@ -1,6 +1,6 @@
 # Day 59
 ___
-## Blog
+## Writeups
 1. https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25
 2. https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b
 

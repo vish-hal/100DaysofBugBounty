@@ -1,6 +1,6 @@
 # Day 70
 ___
-##Blog/Writeup
+## Blog/Writeup
 - [x] https://bhichher.medium.com/how-to-use-grep-with-regex-like-a-pro-a2ea4302364e
 {Usage of grep have been very well explained here by rahul in this blog.I love how well he explain things and his ducmentation is on another level.}
 - [x] https://blog.0iq.me/

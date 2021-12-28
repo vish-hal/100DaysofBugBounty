@@ -13,7 +13,7 @@ https://manasharsh.medium.com/weapons-in-my-quiver-tools-and-extension-i-use-in-
 - [x] Mosh video on python in 1 hour.
 https://www.youtube.com/watch?v=kqtD5dpn9C8
 
-{facing many problem as it's a crash coursh but somehow manged to understand concept will soon Now I'm working on prorams will create a seprate repo for them.}
+{facing many problem as it's a crash coursh but somehow manged to understand concepts. Now I'm working on prorams & exercises of this video will create a seprate repo for python programs I'm making during my learning with resouces I'm using to learn it.}
 
 
 
